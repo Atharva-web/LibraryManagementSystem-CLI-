@@ -1,0 +1,16 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "A Simple Library Management system with database connection. version 1.0.0 works only on single user. Further releases will support multiple users having their personal shelves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atharva Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
